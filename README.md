@@ -9,12 +9,6 @@ Fine-tuning LLaMA 3.2B Instruct using LoRA on a Vietnamese mathematical question
 - Works with the `Vietnamese-meta-math-MetaMathQA-40K` dataset from Hugging Face.
 - Optimized for mathematical reasoning in Vietnamese.
 
-## 📂 Project Structure
-
-- `llm_reasoning.ipynb`: Main notebook for fine-tuning.
-- `src/train.py`: (Optional) Script version of the notebook.
-- `assets/`: Output examples or figures.
-
 ## 🧪 Tech Stack
 
 - Python, PyTorch
