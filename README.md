@@ -25,7 +25,3 @@ Fine-tuning LLaMA 3.2B Instruct using LoRA on a Vietnamese mathematical question
 
 - [5CD-AI/Vietnamese-meta-math-MetaMathQA-40K-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-meta-math-MetaMathQA-40K-gg-translated)
 
-## 🛠️ Setup
-
-```bash
-pip install -r requirements.txt
